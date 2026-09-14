@@ -6,8 +6,8 @@
 
 %global kmod_name aic8800d80
 %global repo_name aic8800d80
-%global commit 2895da26d8fe35bcec7483705d44c02c39e018fe
-%global commitdate 20260824
+%global commit 9594c5c99a337394e95869cd7099bf0e169d1a65
+%global commitdate 20260910
 %global shortcommit %(c=%{commit}; echo ${c:0:7})
 
 Name:           %{kmod_name}-kmod
